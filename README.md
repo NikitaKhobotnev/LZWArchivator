@@ -4,7 +4,7 @@ Archiver utility sources using the LZW algorithm
 ## using
 The archiver accepts arguments according to the pattern: -flag argument.
 There are 6 flags in total, 4 of which take arguments:
-	--help [-h]			
+	--help [-h]
              : takes no argument, shows instruction (the one you see now)
 	--source [-s] [sourcePath]			
              : takes as an argument the relative name of the file on which operations will
