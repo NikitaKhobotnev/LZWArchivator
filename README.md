@@ -38,7 +38,7 @@ Use case:
 
 The archive is written from top to bottom: first, meta-information is written, then several pieces of information about volumes, then the compressed information itself as a sequence of bytes
 
-Ьeta-information:
+meta-information:
 ```
 +------+----------+------------------------------------------------------+
 |bytes |   type   | info                                                 |
